@@ -4,15 +4,16 @@
 # entre 25 e 30 - acima do peso
 # acima de 30 - obeso
 
-import clean, math
+import clean
 clean.limpaTerminal()
+from math import pow
 
 print('======= ÍNDICE DE MASSA CORPORAL =======\n')
 
 peso = float(input('Digite o seu peso: '))
 altura = float(input('Digite a sua altura: '))
 
-imc = peso / (math.pow(altura, 2))
+imc = peso / (pow(altura, 2))
 
 match(imc):
     case imc if imc < 18.5:

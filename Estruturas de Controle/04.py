@@ -11,10 +11,10 @@ altura = float(input('Digite a sua altura em metros: '))
 sexo = input('Digite o seu sexo (F - feminimo, M - Masculino): ')
 
 match(sexo):
-    case sexo if sexo in 'fF':
+    case 'f' | 'F':
         pesoIdeal = (62.1 * altura) - 44.7
         print(f'\nPeso ideal: {pesoIdeal:.2f}.')
-    case sexo if sexo in 'mM':
+    case 'm' | 'M':
         pesoIdeal = (72.7 * altura) - 58
         print(f'\nPeso ideal: {pesoIdeal:.2f}.')
     case _:
