@@ -1,4 +1,7 @@
-# O IMC-Indice de Massa Corporal - é um critério da Organização Mundial de Saúde para indicar a condição de peso de uma pessoa adulta. A fórmula é IMC = peso / (altura)². Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua condição.
+# O IMC-Indice de Massa Corporal - é um critério da Organização Mundial de Saúde
+# para indicar a condição de peso de uma pessoa adulta. A fórmula é IMC = peso / (altura)².
+# Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua condição.
+
 # abaixo de 18,5 - abaixo do peso
 # entre 18,5 e 25 - peso normal
 # entre 25 e 30 - acima do peso

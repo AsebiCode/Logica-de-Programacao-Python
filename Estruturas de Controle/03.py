@@ -1,4 +1,6 @@
-# 2.3 Desenvolva um algoritmo que calcule as raízes de uma equação do 2º grau, na forma A* x ^ 2 + Bx + C levando em consideração a existência de raízes reais.
+# 2.3 Desenvolva um algoritmo que calcule as raízes 
+# de uma equação do 2º grau, na forma A* x ^ 2 + Bx + C 
+# levando em consideração a existência de raízes reais.
 
 import clean, math
 clean.limpaTerminal()

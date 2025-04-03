@@ -1,4 +1,7 @@
-# 2.5 Faça um algoritmo que leia o ano de nascimento de uma pessoa, calcule e mostre sua idade e, também, verifique e mostre se ela já tem idade para votar (16 anos ou mais) e para conseguir a carteira de habilitação (18 anos ou mais).
+# 2.5 Faça um algoritmo que leia o ano de nascimento de uma pessoa, 
+# calcule e mostre sua idade e, também, verifique e mostre se ela 
+# já tem idade para votar (16 anos ou mais) e para 
+# conseguir a carteira de habilitação (18 anos ou mais).
 
 import clean
 clean.limpaTerminal()

@@ -1,4 +1,7 @@
-# Elabore um algoritmo que leia o valor de dois números inteiros e a operação aritmética desejada; calcule, então, a resposta adequada. Utilize os símbolos da tabela a seguir para ler qual a operação aritmética escolhida.
+# Elabore um algoritmo que leia o valor de dois números
+# inteiros e a operação aritmética desejada; calcule,
+# então, a resposta adequada. Utilize os símbolos da
+# tabela a seguir para ler qual a operação aritmética escolhida.
 # Símbolos: + - * /
 
 import clean, math

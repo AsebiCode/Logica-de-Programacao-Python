@@ -1,4 +1,6 @@
-# 2.6 Escreva um algoritmo que leia o código de um determinado produto e mostre a sua classificação.
+# 2.6 Escreva um algoritmo que leia o código de um 
+# determinado produto e mostre a sua classificação.
+
 # 1 - Alimento não perecível
 # 2, 3 ou 4 - Alimento perecivel
 # 5 ou 6 - Vestuário

@@ -1,4 +1,6 @@
-# Elabore um algoritmo que dada a idade de um nadador classifica-o em uma das seguintes categorias:
+# Elabore um algoritmo que dada a idade de um nadador 
+# classifica-o em uma das seguintes categorias:
+
 # Infantil A -  5 até 7 anos
 # Infantil B - 8 até 10 anos
 # Juvenil A - 11 até 13 anos
