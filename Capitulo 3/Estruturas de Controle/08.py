@@ -9,8 +9,8 @@
 # 3 -  Em duas vezes, preço normal de etiqueta sem juros
 # 4 -  Em três vezes, preço normal de etiqueta mais juros de 10%
 
-import clean
-clean.limpaTerminal()
+from clean import limpaTerminal
+limpaTerminal()
 
 preco = float(input('Digite o preço normal de etiqueta do produto: '))
 

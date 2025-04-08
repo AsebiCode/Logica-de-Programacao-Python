@@ -7,8 +7,8 @@
 # Juvenil B - 14 até 17 anos
 # Adulto - Maiores de 18 anos
 
-import clean
-clean.limpaTerminal()
+from clean import limpaTerminal
+limpaTerminal()
 
 print('======= CLASSIFICAÇÃO DE NADADORES =======\n')
 

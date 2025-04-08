@@ -8,8 +8,8 @@
 # 8 até 15 - Limpeza e utensílios domésticos
 # Qualquer outro código - Inválido
 
-import clean
-clean.limpaTerminal()
+from clean import limpaTerminal
+limpaTerminal()
 
 codigo = int(input('Digite o código do produto: '))
 

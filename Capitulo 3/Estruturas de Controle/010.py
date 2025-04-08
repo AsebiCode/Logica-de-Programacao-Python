@@ -7,8 +7,8 @@
 # entre 25 e 30 - acima do peso
 # acima de 30 - obeso
 
-import clean
-clean.limpaTerminal()
+from clean import limpaTerminal
+limpaTerminal()
 from math import pow
 
 print('======= ÍNDICE DE MASSA CORPORAL =======\n')

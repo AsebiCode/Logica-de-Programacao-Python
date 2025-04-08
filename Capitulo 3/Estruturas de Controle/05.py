@@ -3,8 +3,8 @@
 # já tem idade para votar (16 anos ou mais) e para 
 # conseguir a carteira de habilitação (18 anos ou mais).
 
-import clean
-clean.limpaTerminal()
+from clean import limpaTerminal
+limpaTerminal()
 
 ano = int(input('Digite o seu ano de nascimento: '))
 

@@ -4,8 +4,8 @@
 # para homens: ( 72,7 * h)-58;
 # para mulheres: ( 62,1 * h)-44,7.
 
-import clean
-clean.limpaTerminal()
+from clean import limpaTerminal
+limpaTerminal()
 
 print('========= PESO IDEAL =========\n')
 
