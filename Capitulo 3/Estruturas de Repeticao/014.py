@@ -1,4 +1,4 @@
-# Elabore um algoritmo que obtenha o mínimo múltiplo comum (MMC)
+# Elabore um algoritmo que obtenha o máximo divisor comum (MDC)
 # entre dois números fornecidos.
 
 from clean import limpaTerminal
@@ -12,6 +12,6 @@ def mdc(a, b):
 n1 = int(input('Informe o primeiro número: '))
 n2 = int(input('Informe o segundo número: '))
 
-mmc = (n1 * n2) // mdc(n1, n2)
+mdc = mdc(n1, n2)
 
-print(f'\nMMC: {mmc}')
+print(f'\nMDC: {mdc}')
